@@ -8,4 +8,4 @@
 🛑 全球拦截`select`[]REJECT`[]DIRECT`.*
 🍃 应用净化`select`[]REJECT`[]DIRECT`.*
 🆎 AdBlock`select`[]REJECT`[]DIRECT`.*
-🐟 漏网之鱼`select`[]🚀 节点选择`[]DIRECT`.*
+🐟 漏网之鱼`select`[]🚀 跑车机场`[]DIRECT`.*
