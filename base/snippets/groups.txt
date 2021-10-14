@@ -1,0 +1,11 @@
+🚀 跑车机场`select`[]DIRECT`[]♻️ 自动选择`.*
+♻️ 自动选择`url-test`.*`http://www.gstatic.com/generate_204`300,,50
+🌍 国外媒体`select`[]🚀 节点选择`[]DIRECT`.*
+📲 电报信息`select`[]🚀 节点选择`[]DIRECT`.*
+Ⓜ️ 微软服务`select`[]🚀 节点选择`[]DIRECT`.*
+🍎 苹果服务`select`[]🚀 节点选择`[]DIRECT`.*
+🎯 全球直连`select`[]DIRECT`[]🚀 节点选择`.*
+🛑 全球拦截`select`[]REJECT`[]DIRECT`.*
+🍃 应用净化`select`[]REJECT`[]DIRECT`.*
+🆎 AdBlock`select`[]REJECT`[]DIRECT`.*
+🐟 漏网之鱼`select`[]🚀 节点选择`[]DIRECT`.*
