@@ -5,7 +5,4 @@
 Ⓜ️ 微软服务`select`[]🚀 大航海`[]DIRECT`.*
 🍎 苹果服务`select`[]🚀 大航海`[]DIRECT`.*
 🎯 全球直连`select`[]DIRECT`[]🚀 大航海`.*
-🛑 全球拦截`select`[]REJECT`[]DIRECT`.*
-🍃 应用净化`select`[]REJECT`[]DIRECT`.*
-🆎 AdBlock`select`[]REJECT`[]DIRECT`.*
 🐟 漏网之鱼`select`[]🚀 大航海`[]DIRECT`.*
